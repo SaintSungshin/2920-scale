@@ -31,7 +31,7 @@ int main()
 
 	if (a == 8)
 		cout << "descending" << endl;
-	else          //ÀÌ ºÎºĞÀÌ ¹®Á¦ ÀÎµí....
+	else          //Ã€ÃŒ ÂºÃÂºÃÃ€ÃŒ Â¹Â®ÃÂ¦ Ã€ÃÂµÃ­....
 		cout << "mixed" << endl;
 
 	system("pause");
